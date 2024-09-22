@@ -15,6 +15,7 @@ body {
 .footer {
     padding-left: 15%;
     padding-right: 15%;
+    min-width: 600px;
 }
 
 .header {
@@ -90,12 +91,12 @@ body {
     justify-content: center;
     align-items: center;
     min-width: 50%;
-    margin-left: 150px;
+    margin-left: 25px;
 }
 
 .hero-description {
     color: #e5e7eb;
-    font-size: 18px;
+    font-size: 24px;
 }
 
 .hero-button {
